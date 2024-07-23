@@ -1,0 +1,102 @@
+.logo {
+    width: 10%;
+    margin-left: 580px;
+    display: inline-block;
+}
+.back {
+    width: 100%;
+    height: 700px;
+    background-image: url(img/real\ back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+
+    
+}
+.name {
+    display: inline-block;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.home {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+padding-left: 70px;
+
+}
+.hll {
+    border: 3px solid white;
+    background-color: black;
+
+}
+
+.introo {
+    text-align: center;
+    margin-top: 270px;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    border: 5px  dashed red;
+}
+.h {
+    text-align: center;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    border: 5px  dashed red; 
+}
+.text {
+    color: white;
+    text-decoration: none;
+}
+.past{
+  background-color: black;
+    color: white;
+    text-align: center;
+    border: 6px solid red;
+}
+.img {
+    position: absolute;
+    top: 270px;
+    box-sizing: border-box;
+    width: 99%;
+}
+.pb {
+    background-color: black;
+    color: black;
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 28px;
+    cursor: pointer;
+}
+.pb:hover {
+    background-color: green;
+    color: rgb(0, 0, 0);
+}
+.pasa {
+    color: white;
+    text-decoration: none;
+}
+.biryani {
+    background-color: blue;
+    color: white;
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 28px;
+    cursor: pointer;
+    margin: 15px;
+}
+.biryani:hover {
+    background-color: navy;
+    color: white;
+}
+.Biryani {
+    color: white;
+    text-decoration:none;
+
+}
